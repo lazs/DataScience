@@ -1,0 +1,309 @@
+id,latitude,longitude,name,display_name,zone,total_lines,rail
+1,515.028,-0.2801,Acton Town,Acton<br />Town,3,2,0
+2,515.143,-0.0755,Aldgate,NULL,1,2,0
+3,515.154,-0.0726,Aldgate East,Aldgate<br />East,1,2,0
+4,515.107,-0.013,All Saints,All<br />Saints,2,1,0
+5,515.407,-0.2997,Alperton,NULL,4,1,0
+6,516.736,-0.607,Amersham,NULL,9,1,1
+7,515.322,-0.1058,Angel,NULL,1,1,0
+8,515.653,-0.1353,Archway,NULL,2.5,1,0
+9,516.164,-0.1331,Arnos Grove,Arnos<br />Grove,4,1,0
+10,515.586,-0.1059,Arsenal,NULL,2,1,0
+11,515.226,-0.1571,Baker Street,Baker<br />Street,1,5,0
+12,514.431,-0.1525,Balham,NULL,3,1,1
+13,515.133,-0.0886,Bank,NULL,1,4,0
+14,515.204,-0.0979,Barbican,NULL,1,3,0
+15,515.396,0.081,Barking,NULL,4,2,1
+16,515.856,0.0887,Barkingside,NULL,4,1,0
+17,514.905,-0.2139,Barons Court,Barons<br />Court,2,2,0
+18,515.121,-0.1879,Bayswater,NULL,1,2,0
+19,515.148,0.0613,Beckton,NULL,3,1,0
+20,515.087,0.055,Beckton Park,Beckton<br />Park,3,1,0
+21,515.403,0.127,Becontree,NULL,5,1,0
+22,515.504,-0.1642,Belsize Park,Belsize<br />Park,2,1,0
+23,514.979,-0.0637,Bermondsey,NULL,2,1,0
+24,51.527,-0.0549,Bethnal Green,Bethnal<br />Green,2,1,0
+25,51.512,-0.1031,Blackfriars,NULL,1,2,0
+26,515.867,-0.0417,Blackhorse Road,Blackhorse<br />Road,3,1,1
+27,515.079,-0.0066,Blackwall,NULL,2,1,0
+28,515.142,-0.1494,Bond Street,Bond<br />Street,1,2,0
+29,515.011,-0.0943,Borough,NULL,1,1,0
+30,514.956,-0.325,Boston Manor,Boston<br />Manor,4,1,0
+31,516.071,-0.1243,Bounds Green,Bounds<br />Green,3.5,1,0
+32,515.273,-0.0208,Bow Church,Bow<br />Church,2,1,0
+33,515.269,-0.0247,Bow Road,Bow<br />Road,2,2,0
+34,515.766,-0.2136,Brent Cross,Brent<br />Cross,3,1,0
+35,514.627,-0.1145,Brixton,NULL,2,1,1
+36,515.248,-0.0119,Bromley-By-Bow,NULL,2.5,2,0
+37,516.266,0.0471,Buckhurst Hill,Buckhurst<br />Hill,5,1,0
+38,516.028,-0.2641,Burnt Oak,Burnt<br />Oak,4,1,0
+39,515.481,-0.1188,Caledonian Road,Caledonian<br />Road,2,1,0
+40,515.392,-0.1426,Camden Town,Camden<br />Town,2,1,0
+41,514.982,-0.0502,Canada Water,Canada<br />Water,2,2,0
+42,515.051,-0.0209,Canary Wharf,Canary<br />Wharf,2,2,0
+43,515.147,0.0082,Canning Town,Canning<br />Town,2.5,2,1
+44,515.113,-0.0904,Cannon Street,Cannon<br />Street,1,2,0
+45,516.078,-0.2947,Canons Park,Canons<br />Park,5,1,0
+46,516.679,-0.561,Chalfont & Latimer,Chalfont &<br />Latimer,8,1,1
+47,515.441,-0.1538,Chalk Farm,Chalk<br />Farm,2,1,0
+48,515.185,-0.1111,Chancery Lane,Chancery<br />Lane,1,1,0
+49,51.508,-0.1247,Charing Cross,Charing<br />Cross,1,2,1
+50,517.052,-0.611,Chesham,NULL,9,1,0
+51,516.177,0.0755,Chigwell,NULL,4,1,0
+52,514.946,-0.2678,Chiswick Park,Chiswick<br />Park,3,1,0
+53,516.543,-0.5183,Chorleywood,NULL,7,1,0
+54,514.618,-0.1384,Clapham Common,Clapham<br />Common,2,1,0
+55,514.649,-0.1299,Clapham North,Clapham<br />North,2,1,0
+56,514.527,-0.148,Clapham South,Clapham<br />South,2.5,1,0
+57,516.517,-0.1496,Cockfosters,NULL,5,1,0
+58,515.955,-0.2502,Colindale,NULL,4,1,0
+59,51.418,-0.1778,Colliers Wood,Colliers<br />Wood,3,1,0
+60,515.129,-0.1243,Covent Garden,Covent<br />Garden,1,1,0
+61,514.957,-0.0144,Crossharbour & London Arena,Crossharbour &<br />London Arena,2,1,0
+62,51.647,-0.4412,Croxley,NULL,7,1,0
+63,515.095,0.0276,Custom House,Custom<br />House,3,1,0
+64,514.827,-0.0096,Cutty Sark,Cutty<br />Sark,2.5,1,0
+65,515.085,0.064,Cyprus,NULL,3,1,0
+66,515.443,0.1655,Dagenham East,Dagenham<br />East,5,1,0
+67,515.417,0.1469,Dagenham Heathway,Dagenham<br />Heathway,5,1,0
+68,516.455,0.0838,Debden,NULL,6,1,0
+69,51.474,-0.0216,Deptford Bridge,Deptford<br />Bridge,2.5,1,0
+70,515.223,-0.0173,Devons Road,Devons<br />Road,2,1,0
+71,51.552,-0.2387,Dollis Hill,Dollis<br />Hill,3,1,0
+72,515.152,-0.3017,Ealing Broadway,Ealing<br />Broadway,3,2,1
+73,515.101,-0.2882,Ealing Common,Ealing<br />Common,3,2,0
+74,51.492,-0.1973,Earl's Court,Earl's<br />Court,1.5,2,0
+75,515.765,-0.397,Eastcote,NULL,5,2,0
+76,515.168,-0.2474,East Acton,East<br />Acton,2,1,0
+77,515.874,-0.165,East Finchley,East<br />Finchley,3,1,0
+78,515.394,0.0518,East Ham,East<br />Ham,3.5,2,0
+79,515.093,-0.0021,East India,East<br />India,2.5,1,0
+80,514.586,-0.2112,East Putney,East<br />Putney,2.5,1,0
+81,516.137,-0.275,Edgware,NULL,5,1,0
+82,515.199,-0.1679,Edgware Road (B),Edgware<br />Road,1,1,0
+83,515.203,-0.17,Edgware Road (C),Edgware<br />Road,1,3,0
+84,514.943,-0.1001,Elephant & Castle,Elephant &<br />Castle,1.5,2,1
+85,515.496,0.1977,Elm Park,Elm<br />Park,6,1,0
+86,514.693,-0.0174,Elverson Road,Elverson<br />Road,2.5,1,0
+87,515.074,-0.1223,Embankment,NULL,1,4,0
+88,516.937,0.1139,Epping,NULL,6,1,0
+89,515.282,-0.1337,Euston,NULL,1,2,1
+90,51.526,-0.1359,Euston Square,Euston<br />Square,1,3,0
+91,51.596,0.0912,Fairlop,NULL,4,1,0
+92,515.203,-0.1053,Farringdon,NULL,1,3,1
+93,516.012,-0.1932,Finchley Central,Finchley<br />Central,4,1,0
+94,515.472,-0.1803,Finchley Road,Finchley<br />Road,2,2,0
+95,515.642,-0.1065,Finsbury Park,Finsbury<br />Park,2,1,1
+96,514.804,-0.195,Fulham Broadway,Fulham<br />Broadway,2,1,0
+97,515.096,0.0716,Gallions Reach,Gallions<br />Reach,3,1,0
+98,515.765,0.0663,Gants Hill,Gants<br />Hill,4,1,0
+99,514.945,-0.1829,Gloucester Road,Gloucester<br />Road,1,3,0
+100,515.724,-0.1941,Golders Green,Golders<br />Green,3,1,0
+101,515.018,-0.2267,Goldhawk Road,Goldhawk<br />Road,2,1,0
+102,515.205,-0.1347,Goodge Street,Goodge<br />Street,1,1,0
+103,516.132,0.0923,Grange Hill,Grange<br />Hill,4,1,0
+104,515.238,-0.1439,Great Portland Street,Great<br />Portland<br />Street,1,3,0
+105,515.423,-0.3456,Greenford,NULL,4,1,1
+106,514.781,-0.0149,Greenwich,NULL,2.5,1,1
+107,515.067,-0.1428,Green Park,Green<br />Park,1,3,0
+108,514.915,-0.2754,Gunnersbury,NULL,3,1,0
+109,51.603,0.0933,Hainault,NULL,4,1,0
+110,514.936,-0.2251,Hammersmith,NULL,2,3,0
+111,515.568,-0.178,Hampstead,NULL,2.5,1,0
+112,515.302,-0.2933,Hanger Lane,Hanger<br />Lane,3,1,0
+113,515.362,-0.2575,Harlesden,NULL,3,1,0
+114,515.925,-0.3351,Harrow & Wealdstone,Harrow &<br />Wealdstone,5,1,1
+115,515.793,-0.3366,Harrow-on-the-Hill,Harrow-<br />on-the-Hill,5,1,1
+116,514.669,-0.4227,Hatton Cross,Hatton<br />Cross,5.5,1,0
+117,514.713,-0.4524,Heathrow Terminals 1, 2 & 3 Heathrow<br />Terminals<br />1 2 & 3,6,1,0
+118,514.598,-0.4476,Heathrow Terminal 4,Heathrow<br />Terminal 4,6,1,0
+119,515.829,-0.2259,Hendon Central,Hendon<br />Central,3.5,1,0
+120,515.033,-0.0215,Heron Quays,Heron<br />Quays,2,1,0
+121,516.503,-0.1943,High Barnet,High<br />Barnet,5,1,0
+122,515.009,-0.1925,High Street Kensington,High<br />Street<br />Kensington,1,2,0
+123,51.546,-0.104,Highbury & Islington,Highbury &<br />Islington,2,1,1
+124,515.777,-0.1458,Highgate,NULL,3,1,0
+125,515.538,-0.4499,Hillingdon,NULL,6,2,0
+126,515.174,-0.12,Holborn,NULL,1,2,0
+127,515.075,-0.206,Holland Park,Holland<br />Park,2,1,0
+128,515.526,-0.1132,Holloway Road,Holloway<br />Road,2,1,0
+129,515.539,0.2184,Hornchurch,NULL,6,1,0
+130,514.713,-0.3665,Hounslow Central,Hounslow<br />Central,4,1,0
+131,514.733,-0.3564,Hounslow East,Hounslow<br />East,4,1,0
+132,514.734,-0.3855,Hounslow West,Hounslow<br />West,5,1,0
+133,515.027,-0.1527,Hyde Park Corner,Hyde<br />Park<br />Corner,1,1,0
+134,515.619,-0.4421,Ickenham,NULL,6,2,0
+135,514.871,-0.0101,Island Gardens,Island<br />Gardens,2,1,0
+136,514.884,-0.1053,Kennington,NULL,2,1,0
+137,515.304,-0.225,Kensal Green,Kensal<br />Green,2,1,0
+138,514.983,-0.2106,Kensington (Olympia),Kensington<br />(Olympia),2,1,1
+139,515.507,-0.1402,Kentish Town,Kentish<br />Town,2,1,1
+140,515.816,-0.3162,Kenton,NULL,4,1,0
+141,51.477,-0.285,Kew Gardens,Kew<br />Gardens,3.5,1,0
+142,515.471,-0.2047,Kilburn,NULL,2,1,0
+143,515.351,-0.1939,Kilburn Park,Kilburn<br />Park,2,1,0
+144,515.846,-0.2786,Kingsbury,NULL,4,1,0
+145,515.308,-0.1238,King's Cross St. Pancras,King's Cross<br />St. Pancras,1,6,1
+146,515.015,-0.1607,Knightsbridge,NULL,1,1,0
+147,515.172,-0.2107,Ladbroke Grove,Ladbroke<br />Grove,2,1,0
+148,514.991,-0.1115,Lambeth North,Lambeth<br />North,1,1,0
+149,515.119,-0.1756,Lancaster Gate,Lancaster<br />Gate,1,1,0
+150,515.139,-0.2172,Latimer Road,Latimer<br />Road,2,1,0
+151,515.113,-0.1281,Leicester Square,Leicester<br />Square,1,2,0
+152,514.657,-0.0142,Lewisham,NULL,2.5,1,1
+153,515.566,-0.0053,Leyton,NULL,3,1,0
+154,515.683,0.0083,Leytonstone,NULL,3.5,1,0
+155,515.123,-0.0396,Limehouse,NULL,2,1,1
+156,515.178,-0.0823,Liverpool Street,Liverpool<br />Street,1,4,1
+157,515.052,-0.0864,London Bridge,London<br />Bridge,1,2,1
+158,516.412,0.0558,Loughton,NULL,6,1,0
+159,51.53,-0.1854,Maida Vale,Maida<br />Vale,2,1,0
+160,515.712,-0.0958,Manor House,Manor<br />House,2.5,1,0
+161,515.122,-0.094,Mansion House,Mansion<br />House,1,2,0
+162,515.136,-0.1586,Marble Arch,Marble<br />Arch,1,1,0
+163,515.225,-0.1631,Marylebone,NULL,1,1,1
+164,515.249,-0.0332,Mile End,Mile<br />End,2,3,0
+165,516.082,-0.2103,Mill Hill East,Mill<br />Hill<br />East,4,1,0
+166,515.108,-0.0863,Monument,NULL,1,2,0
+167,515.186,-0.0886,Moorgate,NULL,1,4,1
+168,516.294,-0.432,Moor Park,Moor<br />Park,6.5,1,0
+169,514.022,-0.1948,Morden,NULL,4,1,0
+170,515.342,-0.1387,Mornington Crescent,Mornington<br />Crescent,2,1,0
+171,514.902,-0.0145,Mudchute,NULL,2,1,0
+172,515.542,-0.2503,Neasden,NULL,3,1,0
+173,515.756,0.0899,Newbury Park,Newbury<br />Park,4,1,0
+174,514.767,-0.0327,New Cross,New<br />Cross,2,1,1
+175,514.757,-0.0402,New Cross Gate,New<br />Cross<br />Gate,2,1,1
+176,514.995,-0.3142,Northfields,NULL,3,1,0
+177,515.483,-0.3687,Northolt,NULL,5,1,0
+178,515.784,-0.3184,Northwick Park,Northwick<br />Park,4,1,0
+179,516.111,-0.424,Northwood,NULL,6,1,0
+180,516.004,-0.4092,Northwood Hills,Northwood<br />Hills,6,1,0
+181,515.237,-0.2597,North Acton,North<br />Acton,2.5,1,0
+182,515.175,-0.2887,North Ealing,North<br />Ealing,3,1,0
+183,515.005,0.0039,North Greenwich,North<br />Greenwich,2.5,1,0
+184,515.846,-0.3626,North Harrow,North<br />Harrow,5,1,0
+185,515.621,-0.3034,North Wembley,North<br />Wembley,4,1,0
+186,515.094,-0.1967,Notting Hill Gate,Notting<br />Hill Gate,1.5,3,0
+187,516.476,-0.1318,Oakwood,NULL,5,1,0
+188,515.263,-0.0873,Old Street,Old<br />Street,1,1,1
+189,514.813,-0.3522,Osterley,NULL,4,1,0
+190,514.819,-0.113,Oval,NULL,2,1,0
+191,51.515,-0.1415,Oxford Circus,Oxford<br />Circus,1,3,0
+192,515.154,-0.1755,Paddington,NULL,1,4,1
+193,51.527,-0.2841,Park Royal,Park<br />Royal,3,1,0
+194,514.753,-0.2011,Parsons Green,Parsons<br />Green,2,1,0
+195,515.366,-0.3232,Perivale,NULL,4,1,0
+196,515.098,-0.1342,Piccadilly Circus,Piccadilly<br />Circus,1,2,0
+197,514.893,-0.1334,Pimlico,NULL,1,1,0
+198,515.926,-0.3805,Pinner,NULL,5,1,0
+199,515.313,0.0172,Plaistow,NULL,3,2,0
+200,515.077,-0.0173,Poplar,NULL,2,1,0
+201,51.572,-0.2954,Preston Road,Preston<br />Road,4,1,0
+202,515.093,0.0336,Prince Regent,Prince<br />Regent,3,1,0
+203,515.343,-0.0139,Pudding Mill Lane,Pudding<br />Mill Lane,2.5,1,0
+204,514.682,-0.2089,Putney Bridge,Putney<br />Bridge,2,1,0
+205,515.341,-0.2047,Queen's Park,Queens<br />Park,2,1,1
+206,515.942,-0.2861,Queensbury,NULL,4,1,0
+207,515.107,-0.1877,Queensway,NULL,1,1,0
+208,514.942,-0.2359,Ravenscourt Park,Ravenscourt<br />Park,2,1,0
+209,515.753,-0.3714,Rayners Lane,Rayners<br />Lane,5,2,0
+210,515.763,0.0454,Redbridge,NULL,4,1,0
+211,515.234,-0.1466,Regent's Park,Regent's<br />Park,1,1,0
+212,514.633,-0.3013,Richmond,NULL,4,1,1
+213,516.404,-0.4733,Rickmansworth,NULL,7,1,0
+214,516.171,0.0439,Roding Valley,Roding<br />Valley,4,1,0
+215,51.501,-0.0525,Rotherhithe,NULL,2,1,0
+216,515.084,0.0465,Royal Albert,Royal<br />Albert,3,1,0
+217,51.519,-0.188,Royal Oak,Royal<br />Oak,2,1,0
+218,515.091,0.0181,Royal Victoria,Royal<br />Victoria,3,1,0
+219,515.715,-0.4213,Ruislip,NULL,6,2,0
+220,515.606,-0.4103,Ruislip Gardens,Ruislip<br />Gardens,5,1,0
+221,515.732,-0.4125,Ruislip Manor,Ruislip<br />Manor,6,2,0
+222,51.523,-0.1244,Russell Square,Russell<br />Square,1,1,0
+223,515.822,-0.0749,Seven Sisters,Seven<br />Sisters,3,1,1
+224,515.117,-0.056,Shadwell,NULL,2,2,0
+225,515.046,-0.2187,Shepherd's Bush (C),Shepherd's<br />Bush,2,1,0
+226,515.058,-0.2265,Shepherd's Bush (H),Shepherd's<br />Bush,2,1,0
+227,515.227,-0.0708,Shoreditch,NULL,2,1,0
+228,514.924,-0.1565,Sloane Square,Sloane<br />Square,1,2,0
+229,515.808,0.0216,Snaresbrook,NULL,4,1,0
+230,514.454,-0.2066,Southfields,NULL,3,1,0
+231,516.322,-0.128,Southgate,NULL,4,1,0
+232,51.504,-0.1052,Southwark,NULL,1,1,0
+233,515.011,-0.3072,South Ealing,South<br />Ealing,3,1,0
+234,515.646,-0.3521,South Harrow,South<br />Harrow,5,1,0
+235,514.941,-0.1738,South Kensington,South<br />Kensington,1,3,0
+236,515.701,-0.3081,South Kenton,South<br />Kenton,4,1,0
+237,515.007,-0.0191,South Quay,South<br />Quay,2,1,0
+238,515.569,-0.3988,South Ruislip,South<br />Ruislip,5,1,1
+239,514.154,-0.1919,South Wimbledon,South<br />Wimbledon,3.5,1,0
+240,515.917,0.0275,South Woodford,South<br />Woodford,4,1,0
+241,51.495,-0.2459,Stamford Brook,Stamford<br />Brook,2,1,0
+242,516.194,-0.3028,Stanmore,NULL,5,1,0
+243,515.221,-0.047,Stepney Green,Stepney<br />Green,2,2,0
+244,514.723,-0.123,Stockwell,NULL,2,2,0
+245,515.439,-0.2759,Stonebridge Park,Stonebridge<br />Park,3,1,0
+246,515.416,-0.0042,Stratford,NULL,2.5,3,1
+247,514.994,-0.1335,St. James's Park,St. James's<br />Park,1,2,0
+248,515.347,-0.174,St. John's Wood,St. John's<br />Wood,2,1,0
+249,515.146,-0.0973,St. Paul's,St. Paul's,1,1,0
+250,515.569,-0.3366,Sudbury Hill,Sudbury<br />Hill,4,1,0
+251,515.507,-0.3156,Sudbury Town,Sudbury<br />Town,4,1,0
+252,514.933,-0.0478,Surrey Quays,Surrey<br />Quays,2,1,0
+253,515.432,-0.1738,Swiss Cottage,Swiss<br />Cottage,2,2,0
+254,515.111,-0.1141,Temple,NULL,1,2,0
+255,516.717,0.1033,Theydon Bois,Theydon<br />Bois,6,1,0
+256,514.361,-0.1598,Tooting Bec,Tooting<br />Bec,3,1,0
+257,514.275,-0.168,Tooting Broadway,Tooting<br />Broadway,3,1,0
+258,515.165,-0.131,Tottenham Court Road,Tottenham<br />Court<br />Road,1,2,0
+259,515.882,-0.0594,Tottenham Hale,Tottenham<br />Hale,3,1,1
+260,516.302,-0.1791,Totteridge & Whetstone,Totteridge<br />& Whetstone,4,1,0
+261,515.106,-0.0743,Tower Gateway,Tower<br />Gateway,1,1,0
+262,515.098,-0.0766,Tower Hill,Tower<br />Hill,1,2,0
+263,515.567,-0.1374,Tufnell Park,Tufnell<br />Park,2,1,0
+264,514.951,-0.2547,Turnham Green,Turnham<br />Green,2.5,2,0
+265,515.904,-0.1028,Turnpike Lane,Turnpike<br />Lane,3,1,0
+266,51.559,0.251,Upminster,NULL,6,1,1
+267,515.582,0.2343,Upminster Bridge,Upminster<br />Bridge,6,1,0
+268,515.385,0.1014,Upney,NULL,4,1,0
+269,515.352,0.0343,Upton Park,Upton<br />Park,3,2,0
+270,515.463,-0.4786,Uxbridge,NULL,6,2,0
+271,514.861,-0.1253,Vauxhall,NULL,1.5,1,1
+272,514.965,-0.1447,Victoria,NULL,1,3,1
+273,51.583,-0.0195,Walthamstow Central,Walthamstow<br />Central,3,1,1
+274,515.775,0.0288,Wanstead,NULL,4,1,0
+275,515.043,-0.0558,Wapping,NULL,2,1,0
+276,515.247,-0.1384,Warren Street,Warren<br />Street,1,2,0
+277,515.235,-0.1835,Warwick Avenue,Warwick<br />Avenue,2,1,0
+278,515.036,-0.1143,Waterloo,NULL,1,4,1
+279,516.573,-0.4177,Watford,NULL,7,1,0
+280,515.519,-0.2963,Wembley Central,Wembley<br />Central,4,1,1
+281,515.635,-0.2795,Wembley Park,Wembley<br />Park,4,2,0
+282,51.521,-0.2011,Westbourne Park,Westbourne<br />Park,2,1,0
+283,515.097,-0.0265,Westferry,NULL,2,1,0
+284,51.501,-0.1254,Westminster,NULL,1,3,0
+285,51.518,-0.2809,West Acton,West<br />Acton,3,1,0
+286,514.872,-0.1953,West Brompton,West<br />Brompton,2,1,1
+287,516.095,-0.1883,West Finchley,West<br />Finchley,4,1,0
+288,515.287,0.0056,West Ham,West<br />Ham,2.5,3,1
+289,515.469,-0.1906,West Hampstead,West<br />Hampstead,2,1,1
+290,515.795,-0.3533,West Harrow,West<br />Harrow,5,1,0
+291,51.507,-0.0203,West India Quay,West<br />India<br />Quay,2,1,0
+292,514.907,-0.2065,West Kensington,West<br />Kensington,2,1,0
+293,515.696,-0.4376,West Ruislip,West<br />Ruislip,6,1,1
+294,515.194,-0.0612,Whitechapel,NULL,2,3,0
+295,51.512,-0.2239,White City,White<br />City,2,1,0
+296,515.492,-0.2215,Willesden Green,Willesden<br />Green,2.5,1,0
+297,515.326,-0.2478,Willesden Junction,Willesden<br />Junction,2.5,1,1
+298,514.214,-0.2064,Wimbledon,NULL,3,1,1
+299,514.343,-0.1992,Wimbledon Park,Wimbledon<br />Park,3,1,0
+300,51.607,0.0341,Woodford,NULL,4,1,0
+301,516.179,-0.1856,Woodside Park,Woodside<br />Park,4,1,0
+302,515.975,-0.1097,Wood Green,Wood<br />Green,3,1,0
+303,515.027,0.0226,West Silvertown,West<br />Silvertown,3,1,0
+304,515.021,0.0319,Pontoon Dock,Pontoon<br />Dock,3,1,0
+305,515.037,0.0488,London City Airport,London<br />City<br />Airport,3,1,0
+306,51.502,0.0627,King George V,King<br />George V,3,1,0
+307,5.147.006,-0.49108,Heathrow Terminal 5,Heathrow<br />Terminal 5,6,1,1
+308,51.510.031, -0.224301,Wood Lane,Wood<br />Lane,2,2,0
